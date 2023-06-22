@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1686863787,
+	"version": 1687458454,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,8 @@
 		"images/sprite-sheet0.png",
 		"images/tiledbackground6.png",
 		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
 		"media/cartoon-jump-6462.ogg",
 		"media/arcade-39970.ogg",
 		"media/lasergun-35817.ogg",
